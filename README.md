@@ -1,6 +1,8 @@
 # Stock Tracker Bot
 
-http://t.me/stocksavvy_bot
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](http://t.me/stocksavvy_bot)
+
+---
 
 ## Introduction
 Stock Tracker Bot is a Telegram bot designed to provide current stock price information for publicly traded companies. Users can retrieve the current price of a stock by providing its symbol as a command to the bot.
